@@ -1,6 +1,6 @@
 ![MasterHead](https://unite.un.org/sites/unite.un.org/files/styles/panopoly_image_original/public/pages/analytics-banner_1.png?itok=ZMQjool9)
-<h1 align="center">Hi 👋, I'm Saurabh</h1>
-<h3 align="center">A passionate Data Analyst. I am a bridge between business leaders and data. I extract, transform and create data pipelines to derive meaningful insights valuable for business-related data-driven decisions.</h3>
+<h1 align="center">Hi 👋, I'm Saurabh a passionate Data Analyst.</h1>
+<h3 align="center"> I am a bridge between business leaders and data. I extract, transform and create data pipelines to derive meaningful insights valuable for business-related data-driven decisions.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sangwan8950&label=Profile%20views&color=0e75b6&style=flat" alt="sangwan8950" /> </p>
